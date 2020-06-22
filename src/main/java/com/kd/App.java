@@ -26,7 +26,11 @@ public class App {
 	}
 
 	private static void m1() {
-		// Do Nothing
+		System.out.println("Hello");
+	}
+
+	private static void m3() {
+		System.out.println("Hello");
 	}
 
 }
